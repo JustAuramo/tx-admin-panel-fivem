@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/13604413/129143671-3ab6a643-faf0-479d-8b97-af71ffb5193c.png)
+![image]([https://user-images.githubusercontent.com/13604413/129143671-3ab6a643-faf0-479d-8b97-af71ffb5193c.png](https://i.imgur.com/mrZx4MZ.png))
 
 
 EasyAdmin is an Administration Suite for FiveM and RedM Servers, EasyAdmin is feature-rich and highly customisable, it includes features such as
